@@ -35,3 +35,8 @@
   - ...
 
 * 『[実証ビジネス・エコノミクス](https://sites.google.com/view/keisemi-ebiz/)』のRコードの Python 版を作る
+
+* - [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) [Issues](https://github.com/QuantEcon/QuantEcon.py/issues)
+  - [QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) [Issues](https://github.com/QuantEcon/QuantEcon.jl/issues)
+  - [GameTheory.jl](https://github.com/QuantEcon/GameTheory.jl) [Issues](https://github.com/QuantEcon/GameTheory.jl/issues)
+  - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
