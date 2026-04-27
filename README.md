@@ -42,3 +42,6 @@
   - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
 
 ## PRの練習用
+
+どんも〜✋
+2026/4/27 環境設定で一苦労
