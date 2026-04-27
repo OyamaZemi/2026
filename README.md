@@ -41,7 +41,17 @@
   - [GameTheory.jl](https://github.com/QuantEcon/GameTheory.jl) [Issues](https://github.com/QuantEcon/GameTheory.jl/issues)
   - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
 
+## PRの練習用  
+こんにちは
 ## PRの練習用
 
 どんも〜✋
 2026/4/27 環境設定で一苦労
+村田匠　はじめまして
+* - 山禄凛多郎（さんろくりんたろう）
+  - 東京大学経済学部金融学科4年・青木ゼミ尾山ゼミ所属
+本橋薫です
+
+こんにちは
+- 須田悠雅
+- さくらい
