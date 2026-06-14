@@ -23,6 +23,12 @@
     Games and Economic Behavavior 14, 247–259, 1996
 
 * 動的計画問題を解いてみる
+  - [The Income Fluctuation Problem I: Discretization and VFI](https://python.quantecon.org/ifp_discrete.html)
+    - [QuantEcon.py](https://github.com/QuantEcon/QuantEcon.py) の
+      [DiscreteDP](https://quanteconpy.readthedocs.io/en/stable/markov/ddp.html) を使って実装してみる．
+      最初は `a_size` と `y_size` を小さめにしてみる．
+      そのあと sparse matrix を使って実装してみる ("State-action pairs formulation" で実装する)．
+    - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) を使って実装してみる．
   - Miranda and Fackler, [Applied Computational Economics and Finance](https://www.amazon.co.jp/dp/0262633094),
     Chapters 8, 9
     - [MirandaFackler.notebooks](https://github.com/OyamaZemi/MirandaFackler.notebooks)
@@ -30,6 +36,10 @@
   - Santos (1999)
     "[Numerical solution of dynamic economic models](https://www.sciencedirect.com/science/article/abs/pii/S1574004899010083),"
     Handbook of Macroeconomics, Chapter 5
+  - Job Search III: Search with Learning
+    [[Python](https://python.quantecon.org/odu.html)]
+    [[Julia](https://julia.quantecon.org/dynamic_programming/odu.html)]
+    - [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) を使って実装してみる．
 
 * 既存論文の数値解析を再現してみる
   - ...
