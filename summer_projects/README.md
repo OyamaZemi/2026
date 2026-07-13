@@ -26,6 +26,16 @@
   * [Job Search I: The McCall Search Model](https://python.quantecon.org/mccall_model.html) や [Optimal Savings I: Cake Eating](https://python.quantecon.org/os.html) が比較的簡単かも．
   * [The Income Fluctuation Problem I: Discretization and VFI](https://python.quantecon.org/ifp_discrete.html)
 
+コマンド例
+
+```python
+import quantecon.game_theory as gt
+matching_pennies_bimatrix = [[(1, -1), (-1, 1)], [(-1, 1), (1, -1)]]
+g = gt.NormalFormGame(matching_pennies_bimatrix)
+print(g)
+gt.vertex_enumeration(g)
+```
+
 結果は，それ用のレポジトリを作って，そこに Jupyter notebook を置く．
 
 ### 成果物のリスト
