@@ -40,4 +40,4 @@ gt.vertex_enumeration(g)
 
 ### 成果物のリスト
 
-* (最初にプルリクエストを出す人はこの文章を消してリンク・名前を上書きする)
+* 須田悠雅 [pricing_game.ipynb](https://github.com/user-attachments/files/29956131/pricing_game.ipynb)
