@@ -41,4 +41,5 @@ gt.vertex_enumeration(g)
 ### 成果物のリスト
 
 * 須田悠雅 [pricing_game.ipynb](https://github.com/sudayuga/2026_0713_homework.git)
+* 山禄凛多郎  [job_search_with_districtDP](https://github.com/sanrokurintaro/20260713_homework.git)
 * 村田匠 [Singleton_congestion_game](https://github.com/TakumiMurata5713/Takumi_HomeWork)
