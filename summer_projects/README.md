@@ -41,3 +41,4 @@ gt.vertex_enumeration(g)
 ### 成果物のリスト
 
 * 須田悠雅 [pricing_game.ipynb](https://github.com/sudayuga/2026_0713_homework.git)
+* 村田匠 [Singleton_congestion_game](https://github.com/TakumiMurata5713/Takumi_HomeWork)
