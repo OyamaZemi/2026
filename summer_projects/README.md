@@ -13,6 +13,22 @@
 * [表のページ](../README.md) から課題を探すとよい
 
 ---
+## QuantEcon.py のコードを修正してプルリクエストを出す
+* [#882](https://github.com/QuantEcon/QuantEcon.py/issues/882) の
+  - [ ] 4: "Comparison anti-patterns"
+  - [ ] 5: "bare `except:`"
+* [#883](https://github.com/QuantEcon/QuantEcon.py/issues/883): 使われていない変数を消す
+  - [ ] [_robustlq.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/_robustlq.py)
+  - [ ] [_kalman.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/_kalman.py)
+  - [ ] [_lss.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/_lss.py)
+  - [ ] [_matrix_eqn.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/_matrix_eqn.py)
+* [#888](https://github.com/QuantEcon/QuantEcon.py/issues/888): Test coverage を上げる (内容の勉強になる)
+  - [ ] [test_arma.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/tests/test_arma.py)
+  - [ ] [test_lss.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/tests/test_lss.py)
+  - [ ] [test_kalman.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/tests/test_kalman.py)
+  
+
+---
 
 ## 7/13までの課題
 
