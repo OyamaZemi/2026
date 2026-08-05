@@ -42,4 +42,4 @@ gt.vertex_enumeration(g)
 
 * 須田悠雅 [pricing_game.ipynb](https://github.com/user-attachments/files/29956131/pricing_game.ipynb)
 
-* 本橋薫   [The Income Fluctuation Problem I](notebooks/02_income_fluctuation.ipynb )
+* 本橋薫   [The Income Fluctuation Problem I](https://github.com/Kaoru-Mo/quantecon-discretedp-solutions/blob/main/notebooks/02_income_fluctuation.ipynb )
