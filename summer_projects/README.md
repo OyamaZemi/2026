@@ -30,6 +30,7 @@
   - [ ] [arma.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/arma.jl)
   - [ ] [lqcontrol.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/lqcontrol.jl)
   - [ ] [quad.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/quad.jl)
+* [#410](https://github.com/QuantEcon/QuantEcon.jl/issues/410)
 
 ---
 
