@@ -21,6 +21,15 @@
   - [ ] [test_lss.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/tests/test_lss.py)
   - [ ] [test_kalman.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/tests/test_kalman.py)
   
+## QuantEcon.jl のコードを修正してプルリクエストを出す
+* [#407](https://github.com/QuantEcon/QuantEcon.jl/issues/407): `nnash` の乱数生成を消す
+* [#408](https://github.com/QuantEcon/QuantEcon.jl/issues/408): `rng` 引数を加える
+  - [ ] [discrete_rv.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/discrete_rv.jl)
+  - [ ] [markov/mc_tools.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/markov/mc_tools.jl)
+  - [ ] [lss.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/lss.jl)
+  - [ ] [arma.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/arma.jl)
+  - [ ] [lqcontrol.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/lqcontrol.jl)
+  - [ ] [quad.jl](https://github.com/QuantEcon/QuantEcon.jl/blob/master/src/quad.jl)
 
 ---
 
