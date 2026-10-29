@@ -10,7 +10,9 @@
   - 「[Nash 均衡の計算](https://github.com/OyamaZemi/algorithms/blob/master/nash_equilibrium/README.md)」参照
   - 大規模ゲーム
   - 1. [Imitation game アルゴリズム](https://github.com/QuantEcon/QuantEcon.py/blob/fae512cde11f2264618b515184f38bede37ae52f/quantecon/_compute_fp.py#L159)を Julia に翻訳する ([QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) に入れる)
+       ([QuantEcon/QuantEcon.py#997](https://github.com/QuantEcon/QuantEcon.py/pull/997) 参照)
     2. [Mclennan-Tourky アルゴリズム](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/mclennan_tourky.py)を Julia に翻訳する ([GameTheory.jl](https://github.com/QuantEcon/GameTheory.jl) に入れる)
+       ([QuantEcon/QuantEcon.py#997](https://github.com/QuantEcon/QuantEcon.py/pull/997) 参照)
   - 1. Polymatrix game 関連コード
       ([polymatrix_game.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/polymatrix_game.py),
        [howson_lcp.py](https://github.com/QuantEcon/QuantEcon.py/blob/main/quantecon/game_theory/howson_lcp.py))
