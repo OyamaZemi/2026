@@ -46,6 +46,13 @@
     [[Julia](https://julia.quantecon.org/dynamic_programming/odu.html)]
     - [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl) を使って実装してみる．
 
+* EGM/Colman operator を実装して，QuantEcon.py/QuantEcon.jl に入れる (Julia からはじめた方がいいかも)
+  - [コメント](https://github.com/OyamaZemi/2026/issues/38#issuecomment-6359213045)
+  1. [Optimal Growth II: Time Iteration](https://julia.quantecon.org/dynamic_programming/coleman_policy_iter.html) (Julia)
+  2. [The Income Fluctuation Problem III: The Endogenous Grid Method](https://python.quantecon.org/ifp_egm.html) (Python)
+  3. [The Income Fluctuation Problem V: Stochastic Returns on Assets](https://python.quantecon.org/ifp_advanced.html) (Python)
+  4. [Optimal Savings III: Occasionally Binding Constraints](https://julia.quantecon.org/dynamic_programming/ifp.html) (Julia)
+
 * 既存論文の数値解析を再現してみる
   - ...
 
